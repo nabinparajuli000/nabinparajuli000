@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Nabin! 👋
 
-<!--
-**nabinparajuli000/nabinparajuli000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate Computer Engineer with expertise in a variety of programming languages and technologies. Currently, I'm delving into Flutter and Django to expand my skill set.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: HTML, CSS, JavaScript, C, C++, Java, Python
+- **Frameworks**: Flutter, Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are some of the projects I've worked on:
+1. [Project Name](link-to-project): Short description.
+2. [Project Name](link-to-project): Short description.
+3. [Project Name](link-to-project): Short description.
+
+## Connect with Me
+Let's connect and collaborate:
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- Email: your.email@example.com
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration opportunities! 😊
